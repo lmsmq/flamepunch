@@ -11,3 +11,17 @@ body {
 a {
   color: white;
 }
+/* visited link */
+a:visited {
+  color: #C0C0C0;
+}
+
+/* mouse over link */
+a:hover {
+  color: #808080;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
