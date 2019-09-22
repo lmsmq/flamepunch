@@ -1,1 +1,10 @@
-
+body {
+  background-color: black;
+  color: white;
+}
+.trules {
+  color: #FF0000;
+}
+.ctrules {
+  color: #429AFF;
+}
