@@ -1,0 +1,62 @@
+"Phrases"
+{
+    "warden_new"
+    {
+        "#format"       "{1:N}"
+        "en"            "{1} has become the Warden of this prison."
+    }
+
+    "warden_playerdead"
+    {
+        "#format"       ""
+        "en"            "Only alive players may become Warden."
+    }
+
+    "warden_ctsonly"
+    {
+        "#format"       ""
+        "en"            "Only Counter-Terrorists may become Warden."
+    }
+
+    "warden_exist"
+    {
+        "#format"       "{1:N}"
+        "en"            "Current Warden is: {1}"
+    }
+
+    "warden_retire"
+    {
+        "#format"       "{1:N}"
+        "en"            "{1} has decided to retire; you may now choose a new Warden!"
+    }
+
+    "warden_notwarden"
+    {
+        "#format"       ""
+        "en"            "You are not Warden, so you cannot retire!"
+    }
+
+	"warden_dead"
+	{
+		"#format"	""
+		"en"		"The Warden is dead; you may now choose a new one!"
+	}
+	
+	"warden_disconnected"
+	{
+		"#format"	""
+		"en"		"The Warden has disconnected. You may now choose a new one."
+	}
+	
+	"warden_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"Admin: {1} fired Warden: {2}"
+	}
+	
+	"warden_noexist"
+	{
+		"#format"	""
+		"en"		"There was no Warden to fire."
+	}
+}
