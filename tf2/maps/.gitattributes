@@ -1,0 +1,2 @@
+cp_snowplow.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+koth_slaughter_event.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
